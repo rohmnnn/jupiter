@@ -60,7 +60,7 @@
           <div
             class="w-1/2 bg-[#03989E] text-white flex items-center justify-center flex-col rounded-r-2xl"
           >
-            <img src="/maki_doctor.svg" class="text[#03989E]" alt="" />
+            <img src="/icon-1.svg" class="text[#03989E]" alt="" />
             <h1 class="text-4xl font-bold px-6 text-center my-4">
               Dokter Hewan Online
             </h1>
@@ -71,7 +71,7 @@
           <div
             class="w-1/2 bg-[#545454] text-white flex items-center justify-center flex-col rounded-r-2xl"
           >
-            <img src="/maki_doctor.svg" class="text[#545454]" alt="" />
+            <img src="/icon-3.svg" class="text[#545454]" alt="" />
             <h1 class="text-4xl font-bold px-6 text-center my-4">
               Konsultasi AI
             </h1>
@@ -84,7 +84,7 @@
           <div
             class="w-1/2 bg-[#7FB74A] text-white flex items-center justify-center flex-col rounded-r-2xl"
           >
-            <img src="/maki_doctor.svg" class="text[#7FB74A]" alt="" />
+            <img src="/icon-1.svg" class="text[#7FB74A]" alt="" />
             <h1 class="text-4xl font-bold px-6 text-center my-4">
               E-Course Peternakan
             </h1>
@@ -95,7 +95,7 @@
           <div
             class="w-1/2 bg-[#FFAA00] text-white flex items-center justify-center flex-col rounded-r-2xl"
           >
-            <img src="/maki_doctor.svg" class="text[#FFAA00]" alt="" />
+            <img src="/icon-2.svg" class="text[#FFAA00]" alt="" />
             <h1 class="text-4xl font-bold px-6 text-center my-4">
               Sertifikasi
             </h1>
