@@ -1,5 +1,5 @@
 <template>
-  <div class="text-white font-regular flex jutstify-start bg-gray-800 px-28 py-10">
+  <div class="text-white font-regular flex jutstify-start bg-[#1B1B1B] px-28 py-10">
     <div class="w-4/6">
       <img src="/logo.svg" class="" alt="Logo" />
       <div class="w-3/4">
