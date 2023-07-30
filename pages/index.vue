@@ -22,18 +22,18 @@
       </p>
 
       <div class="flex justify-center space-x-6">
-        <a
-          href="/register"
+        <NuxtLink
+          to="/register"
           class="bg-[#03989E] text-white font-semibold rounded-full px-6 py-4 outline outline-[#03989E]"
         >
           Daftar Gratis
-        </a>
-        <a
-          href="/consultation"
+        </NuxtLink>
+        <NuxtLink
+          to="/consultation"
           class="bg-white text-[#03989E] font-semibold rounded-full px-6 py-4 outline outline-[#03989E]"
         >
           Coba TernAI
-        </a>
+        </NuxtLink>
       </div>
     </div>
   </section>
@@ -55,7 +55,7 @@
 
     <div class="my-10 px-12">
       <div class="flex justify-start space-x-3 mb-3">
-        <div class="w-1/2 flex rounded-2xl shadow-lg">
+        <NuxtLink to="/doctor" class="w-1/2 flex rounded-2xl shadow-lg">
           <img src="/1.svg" alt="" class="w-1/2 rounded-l-2xl" srcset="" />
           <div
             class="w-1/2 bg-[#03989E] text-white flex items-center justify-center flex-col rounded-r-2xl"
@@ -65,8 +65,8 @@
               Dokter Hewan Online
             </h1>
           </div>
-        </div>
-        <div class="w-1/2 flex rounded-2xl shadow-lg">
+        </NuxtLink>
+        <NuxtLink to="/consultation" class="w-1/2 flex rounded-2xl shadow-lg">
           <img src="/3.svg" alt="" class="w-1/2 rounded-l-2xl" srcset="" />
           <div
             class="w-1/2 bg-[#545454] text-white flex items-center justify-center flex-col rounded-r-2xl"
@@ -76,10 +76,10 @@
               Konsultasi AI
             </h1>
           </div>
-        </div>
+        </NuxtLink>
       </div>
       <div class="flex justify-start space-x-3">
-        <div class="w-1/2 flex rounded-2xl shadow-lg">
+        <NuxtLink to="/e-course" class="w-1/2 flex rounded-2xl shadow-lg">
           <img src="/2.svg" alt="" class="w-1/2 rounded-l-2xl" srcset="" />
           <div
             class="w-1/2 bg-[#7FB74A] text-white flex items-center justify-center flex-col rounded-r-2xl"
@@ -89,8 +89,8 @@
               E-Course Peternakan
             </h1>
           </div>
-        </div>
-        <div class="w-1/2 flex rounded-2xl shadow-lg">
+        </NuxtLink>
+        <NuxtLink to="/certification" class="w-1/2 flex rounded-2xl shadow-lg">
           <img src="/4.svg" alt="" class="w-1/2 rounded-l-2xl" srcset="" />
           <div
             class="w-1/2 bg-[#FFAA00] text-white flex items-center justify-center flex-col rounded-r-2xl"
@@ -100,7 +100,7 @@
               Sertifikasi
             </h1>
           </div>
-        </div>
+        </NuxtLink>
       </div>
     </div>
   </section>
