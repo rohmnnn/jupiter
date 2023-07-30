@@ -23,13 +23,13 @@
 
       <div class="flex justify-center space-x-6">
         <a
-          href=""
+          href="/register"
           class="bg-[#03989E] text-white font-semibold rounded-full px-6 py-4 outline outline-[#03989E]"
         >
           Daftar Gratis
         </a>
         <a
-          href=""
+          href="/consultation"
           class="bg-white text-[#03989E] font-semibold rounded-full px-6 py-4 outline outline-[#03989E]"
         >
           Coba TernAI
@@ -230,13 +230,15 @@
   <!-- campaign -->
   <section class="pt-12 mt-6 min-w-full bg-[url('/hero-2.svg')] bg-cover">
     <div class="w-full px-12 py-56 text-center">
-      <h1 class="font-semibold text-center text-white text-6xl leading-tight mb-8">
+      <h1
+        class="font-semibold text-center text-white text-6xl leading-tight mb-8"
+      >
         Mari bergabung bersama<br />
         kami sekarang!
       </h1>
 
       <a
-        href=""
+        href="/register"
         class="bg-[#03989E] text-white font-semibold rounded-full px-6 py-4 outline outline-[#03989E]"
       >
         Daftar Gratis

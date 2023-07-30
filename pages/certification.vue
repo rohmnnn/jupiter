@@ -24,7 +24,7 @@
 
       <div class="flex justify-center space-x-6">
         <a
-          href=""
+          href="/"
           class="bg-[#03989E] text-white font-semibold rounded-full px-6 py-4 outline outline-[#03989E]"
         >
           Kembali ke beranda
