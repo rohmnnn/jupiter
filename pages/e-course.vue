@@ -22,12 +22,12 @@
       </p>
 
       <div class="flex justify-center space-x-6">
-        <a
-          href="/"
+        <NuxtLink
+          to="/"
           class="bg-[#03989E] text-white font-semibold rounded-full px-6 py-4 outline outline-[#03989E]"
         >
           Kembali ke beranda
-        </a>
+        </NuxtLink>
       </div>
     </div>
   </section>

@@ -237,12 +237,12 @@
         kami sekarang!
       </h1>
 
-      <a
-        href="/register"
+      <NuxtLink
+        to="/register"
         class="bg-[#03989E] text-white font-semibold rounded-full px-6 py-4 outline outline-[#03989E]"
       >
         Daftar Gratis
-      </a>
+      </NuxtLink>
     </div>
   </section>
 </template>
