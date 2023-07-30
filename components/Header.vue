@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="mx-20">
         <div class="flex justify-between items-center px-8 py-10">
             <div>
                 <img src="/logo.svg" alt="" srcset="">
