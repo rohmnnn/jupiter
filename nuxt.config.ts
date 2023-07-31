@@ -7,7 +7,7 @@ export default defineNuxtConfig({
     '@nuxtjs/google-fonts'
   ],
   app: {
-    baseURL: '/jupiter/' // baseURL: '/<repository>/'
+    // baseURL: '/jupiter/' // baseURL: '/<repository>/'
   },
   googleFonts: {
     families: {
