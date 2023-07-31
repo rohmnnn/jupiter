@@ -2,8 +2,8 @@
   <!-- hero -->
   <section class="py-12 mx-20">
     <div class="w-full px-12 py-2">
-      <h1 class="font-semibold text-gray-700 text-6xl leading-relaxed">
-        Dafar Gratis<br />sekarang !
+      <h1 class="text-center font-semibold w-full lg:w-1/2 text-gray-700 text-3xl lg:text-6xl lg:leading-relaxed lg:px-8">
+        Daftar Gratis sekarang !
       </h1>
     </div>
 
@@ -13,7 +13,7 @@
     </div>
 
     <div>
-      <p class="text-center px-8 py-10 text-light">
+      <p class="text-center px-8 py-10 text-light text-sm lg:text-base">
         Mohon maaf, halaman ini sedang dalam tahap pengembangan, silahkan
         hubungi tim pengembang untuk info lebih lanjut.
       </p>
@@ -21,7 +21,7 @@
       <div class="flex justify-center space-x-6">
         <NuxtLink
           to="/"
-          class="bg-[#03989E] text-white font-semibold rounded-full px-6 py-4 outline outline-[#03989E]"
+          class="bg-[#03989E] text-white font-semibold text-sm lg:text-base rounded-full px-3 py-2 lg:px-6 lg:py-4 outline outline-[#03989E]"
         >
           Kembali ke beranda
         </NuxtLink>

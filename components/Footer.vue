@@ -1,8 +1,8 @@
 <template>
-  <div class="text-white font-regular flex jutstify-start bg-[#1B1B1B] px-28 py-10">
-    <div class="w-4/6">
+  <div class="text-white font-regular lg:flex lg:jutstify-start bg-[#1B1B1B] lg:px-28 px-12 py-10 text-sm lg:text-base">
+    <div class="w-full lg:w-4/6">
       <img src="/logo.svg" class="" alt="Logo" />
-      <div class="w-3/4">
+      <div class="lg:w-3/4">
           <p class="my-4 py-3">
             Jupiter (Juru Pinter Ternak) adalah sebuah platform inovatif yang
             menawarkan solusi lengkap bagi para peternak. Dikenal sebagai platfom
@@ -17,7 +17,7 @@
           </p>
       </div>
     </div>
-    <div class="w-2/6">
+    <div class="w-full lg:w-2/6">
       <p class="my-4 py-3">
         Founding Team :
         <ul>
