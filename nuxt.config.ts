@@ -3,9 +3,15 @@ export default defineNuxtConfig({
   ssr: false,
   devtools: { enabled: true },
   modules: [
-    '@nuxtjs/tailwindcss'
+    '@nuxtjs/tailwindcss',
+    '@nuxtjs/google-fonts'
   ],
   app: {
     baseURL: '/jupiter/' // baseURL: '/<repository>/'
-  }
+  },
+  googleFonts: {
+    families: {
+      Raleway: true,
+    }
+  },
 })
